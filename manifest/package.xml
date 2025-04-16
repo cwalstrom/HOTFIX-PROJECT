@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>X73907_RS_Application_setting</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>RS_Warehouse_Team_Lead</members>
+        <name>PermissionSetGroup</name>
+    </types>
+    <types>
+        <members>RS_Warehouse_Specialist</members>
+        <name>PermissionSetGroup</name>
+    </types>
+    <types>
+        <members>RS_Warehouse_Manager</members>
+        <name>PermissionSetGroup</name>
+    </types>
+    <types>
+        <members>RS_Warehouse_Additional</members>
+        <name>PermissionSetGroup</name>
+    </types>
+
+    <version>63.0</version>
+</Package>
