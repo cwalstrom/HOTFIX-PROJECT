@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Provides RS access for Warehouse Specialists.</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>RS Warehouse Specialist</label>
+    <permissionSets>A3SH_Enhanced_PLT_Transfers</permissionSets>
+    <permissionSets>A3SH_SO_Header</permissionSets>
+    <permissionSets>Add_A3_Replenishment_App</permissionSets>
+    <permissionSets>Add_Create_Dashboards</permissionSets>
+    <permissionSets>Add_Inventory_Commodity_Codes_Tab</permissionSets>
+    <permissionSets>Add_Item_Master_Tab</permissionSets>
+    <permissionSets>Add_Mobile_App</permissionSets>
+    <permissionSets>Add_Planned_Transfer_Pick</permissionSets>
+    <permissionSets>Add_Purchase_Requisitions</permissionSets>
+    <permissionSets>Add_Receiving_App</permissionSets>
+    <permissionSets>Add_SO_Fulfillment_Tab</permissionSets>
+    <permissionSets>Add_Warehouse_Mobile_Tabs</permissionSets>
+    <permissionSets>Add_warehousing_apps</permissionSets>
+    <permissionSets>Apps_Warehouse_Specialist</permissionSets>
+    <permissionSets>DOX__Dox</permissionSets>
+    <permissionSets>DOX__RootForms_user</permissionSets>
+    <permissionSets>RS_A3SH_App_Permissions</permissionSets>
+    <permissionSets>RS_A3_Pro_Transfer_Requests</permissionSets>
+    <permissionSets>X61249_RS_Permission</permissionSets>
+    <permissionSets>X66369_RS_permissions</permissionSets>
+    <permissionSets>X73907_RS_Application_setting</permissionSets>
+    <permissionSets>rootstock__ERP_RootForm_User</permissionSets>
+    <permissionSets>rootstock__RS_Baseline_Lightning</permissionSets>
+    <permissionSets>rootstock__RS_Baseline_Permission_Set</permissionSets>
+    <permissionSets>rootstock__RS_Inventory_Transactions_Management_Admin</permissionSets>
+    <permissionSets>rootstock__RS_PO_Entry_and_Processing</permissionSets>
+    <permissionSets>rootstock__RS_Planned_Location_Transfer</permissionSets>
+    <permissionSets>rootstock__RS_Project_Control</permissionSets>
+    <permissionSets>rootstock__RS_Purchase_Order_Receipts_and_Authorization</permissionSets>
+    <permissionSets>rootstock__RS_Requisitions</permissionSets>
+    <permissionSets>rootstock__RS_SO_Entry_Data_Input</permissionSets>
+    <permissionSets>rootstock__RS_SO_Entry_Fulfillment_Processing</permissionSets>
+    <permissionSets>rootstock__Rootstock_Custom_UI_Rules_and_Actions_ReadOnly_V2</permissionSets>
+    <permissionSets>rootstock__Rootstock_Lightning_Toolkit_User</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
